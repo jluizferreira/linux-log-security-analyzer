@@ -278,9 +278,9 @@ sudo usermod -aG adm $USER
 
 ## 👤 Autor
 
-**Seu Nome**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/seu-usuario)
+**Jefferson Ferreira**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-blue?logo=linkedin)](https://www.linkedin.com/in/jefferson-ferreira-ti/)
+[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/jluizferreira)
 
 ---
 
