@@ -279,8 +279,8 @@ sudo usermod -aG adm $USER
 ## 👤 Autor
 
 **Jefferson Ferreira**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-blue?logo=linkedin)](https://www.linkedin.com/in/jefferson-ferreira-ti/)
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/jluizferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson--Ferreira-blue?logo=linkedin)](https://www.linkedin.com/in/jefferson-ferreira-ti/)
+[![GitHub](https://img.shields.io/badge/GitHub-jluizferreira-black?logo=github)](https://github.com/jluizferreira)
 
 ---
 
