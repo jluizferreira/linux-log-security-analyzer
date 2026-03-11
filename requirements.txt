@@ -1,0 +1,6 @@
+# Linux Log Security Analyzer — Dependências
+# Instale com: pip install -r requirements.txt
+#
+# A versão Linux não depende de pywin32.
+# Usa apenas a biblioteca padrão do Python 3.12.
+# Nenhuma instalação adicional é necessária.
